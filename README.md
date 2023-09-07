@@ -33,11 +33,11 @@ A flight booking flask API that provides users with ability to:
 ### Installation
 Clone the repo.
 ```
-$ git clone https://github.com/Babafrankie/Webstack-Portfolio-Project.git
+$ git clone https://github.com/Babafrankie/Portfolio-Project.git
 ```
 and cd into the folder:
 ```
-$ /Webstack-Portfolio-Project/API-flight-booking
+$ /Portfolio-Project/API-flight-booking
 ```
 
 ### Virtual environment
